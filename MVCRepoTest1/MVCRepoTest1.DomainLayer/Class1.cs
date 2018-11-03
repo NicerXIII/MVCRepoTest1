@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVCDomain
+namespace MVCRepoTest1.DomainLayer
 {
     public class Class1
     {
