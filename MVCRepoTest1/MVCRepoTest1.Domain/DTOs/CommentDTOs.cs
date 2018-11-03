@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVCRepoTest1.Domain
+namespace MVCRepoTest1.Domain.DTOs
 {
-    public class Class1
+    class CommentDTOs
     {
     }
 }
