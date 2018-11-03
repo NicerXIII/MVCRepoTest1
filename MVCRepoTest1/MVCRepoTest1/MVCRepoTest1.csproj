@@ -522,10 +522,6 @@
       <Project>{cb30f485-2703-42f1-b38d-44b023c5bf87}</Project>
       <Name>MVCRepoTest1.BusinessLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MVCRepoTest1.Domain\MVCRepoTest1.Domain.csproj">
-      <Project>{7034da84-53ed-4378-a482-867b027378ae}</Project>
-      <Name>MVCRepoTest1.Domain</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
