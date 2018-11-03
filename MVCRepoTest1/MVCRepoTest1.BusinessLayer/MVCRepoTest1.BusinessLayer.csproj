@@ -51,7 +51,12 @@
     <Compile Include="Interface\IEmployeeBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\MVCRepoTest1.DomainLayer\MVCRepoTest1.DomainLayer.csproj">
+      <Project>{ebbc98d8-0df2-467c-8ed3-20554535383b}</Project>
+      <Name>MVCRepoTest1.DomainLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
