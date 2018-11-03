@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRepoTest1", "MVCRepoTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRepoTest1.BusinessLayer", "MVCRepoTest1.BusinessLayer\MVCRepoTest1.BusinessLayer.csproj", "{CB30F485-2703-42F1-B38D-44B023C5BF87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRepoTest1.DomainLayer", "MVCRepoTest1.DomainLayer\MVCRepoTest1.DomainLayer.csproj", "{EBBC98D8-0DF2-467C-8ED3-20554535383B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{CB30F485-2703-42F1-B38D-44B023C5BF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB30F485-2703-42F1-B38D-44B023C5BF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB30F485-2703-42F1-B38D-44B023C5BF87}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBBC98D8-0DF2-467C-8ED3-20554535383B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBBC98D8-0DF2-467C-8ED3-20554535383B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBBC98D8-0DF2-467C-8ED3-20554535383B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBBC98D8-0DF2-467C-8ED3-20554535383B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
