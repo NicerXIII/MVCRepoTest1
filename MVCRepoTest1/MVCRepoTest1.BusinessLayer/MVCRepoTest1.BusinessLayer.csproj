@@ -55,6 +55,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MVCRepoTest1.Domain\MVCRepoTest1.Domain.csproj">
+      <Project>{7034da84-53ed-4378-a482-867b027378ae}</Project>
+      <Name>MVCRepoTest1.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
