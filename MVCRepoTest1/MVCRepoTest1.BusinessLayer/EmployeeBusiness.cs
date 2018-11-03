@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MVCRepoTest1.BusinessLayer
 {
-    class EmployeeBusiness : IEmployeeBusiness
+    public class EmployeeBusiness : IEmployeeBusiness
     {
         public string GetEmployeeName(string EmpID)
         {
