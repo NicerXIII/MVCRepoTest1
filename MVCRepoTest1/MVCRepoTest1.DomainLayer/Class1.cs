@@ -8,5 +8,6 @@ namespace MVCRepoTest1.DomainLayer
 {
     public class Class1
     {
+
     }
 }
